@@ -1,2 +1,2 @@
 # JS-code
-My teslacho code for JS
+My  code for JS which shows how to split strings.
